@@ -4,13 +4,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning iOS Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Machine Learning Engineer and Backend Developer.
 - 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
+- 💬 Brainstorm with me over mapping solutions to social problems with tech.
 - 🎬 &nbsp; Watching stand-up comedy and trying out latest trends in python as hobbies/side hustles.
 - 🤙 &nbsp; I belive, jabbering with our best friend can be the ultimate solution for any stress. 
-- 💬 Brainstorm with me over mapping solutions to social problems with tech.
 
 <h3>🛠 Tech Stack</h3>
 
