@@ -1,5 +1,5 @@
 <h2> Hey there! I'm G.S Suri <img src="./static/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="./static/gif3.gif" width="300"/>
+<img align="right" alt="GIF" src="./static/gif3.gif" width="400" height="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
 - 🎬 &nbsp; Watching stand-up comedy and trying out latest trends in python as hobbies/side hustles.
 - 🤙 &nbsp; I belive, jabbering with our best friend can be the ultimate solution for any stress. 
-- 💬 Brainstorm with me over mapping solutions to problems in Business, Environment, Healthcare, Social Media and Education sectors with Tech.
+- 💬 Brainstorm with me over mapping solutions to social problems with tech.
 
 <h3>🛠 Tech Stack</h3>
 
