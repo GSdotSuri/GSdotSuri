@@ -1,5 +1,5 @@
 <h2> Hey there! I'm G.S Suri <img src="./static/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="./static/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="./static/gif3.gif" width="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -19,7 +19,7 @@
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
 - ☁️ &nbsp; Amazon Web Services | Google Cloud Platform
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Voice Assistans | Chatbots | Photoshop | Canva
+- 🖥 &nbsp; Voice Assistants | Chatbots | Photoshop | Canva
 - ⛳ &nbsp; Football, Basketball, Table Tennis, Swimming
 
 <br>
