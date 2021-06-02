@@ -1,5 +1,5 @@
 <h2> Hey there! I'm G.S Suri <img src="./static/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="./static/gif3.gif" width="300" height="400"/>
+<img align="right" alt="GIF" src="./static/gif3.gif" width="320" height="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
