@@ -20,7 +20,6 @@
 - ☁️ &nbsp; Amazon Web Services | Google Cloud Platform
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Voice Assistants | Chatbots | Photoshop | Canva
-- ⛳ &nbsp; Football, Basketball, Table Tennis, Swimming
 
 <br>
 
