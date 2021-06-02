@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
 - 💬 Brainstorm with me over mapping solutions to social problems with tech.
 - 🎬 &nbsp; Watching stand-up comedy and trying out latest trends in python as hobbies/side hustles.
-- 🤙 &nbsp; I belive, jabbering with our best friend can be the ultimate solution for any stress. 
+- 🤙 &nbsp; I belive, jabbering with our best friends can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
