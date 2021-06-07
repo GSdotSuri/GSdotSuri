@@ -24,11 +24,11 @@
 <br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GSdotSuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=great-gatsby" alt="G.S' Github Stats ">
+![G.S' Github Stats](https://github-readme-stats.vercel.app/api?username=GSdotSuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react)
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSdotSuri&layout=compact&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSdotSuri&layout=compact&theme=react)
 
 <br>
 
