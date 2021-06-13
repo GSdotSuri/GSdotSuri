@@ -24,11 +24,11 @@
 <br>
 <br>
 
-![G.S' Github Stats](https://github-readme-stats.vercel.app/api?username=GSdotSuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia)
+![G.S' Github Stats](https://github-readme-stats.vercel.app/api?username=GSdotSuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical)
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSdotSuri&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSdotSuri&layout=compact&theme=radical)
 
 <br>
 
