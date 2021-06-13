@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Swift | Java | Django | Flask 
+- 💻 &nbsp; Python | Swift | Django | Flask 
 - 🌐 &nbsp; Machine Learning | Web Scraping | Backend | iOS
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
 - ☁️ &nbsp; Amazon Web Services | Google Cloud Platform
