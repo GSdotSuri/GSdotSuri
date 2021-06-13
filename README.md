@@ -3,18 +3,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning iOS based mobile Application Development.
-- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
+- 🔭 &nbsp; I’m currently learning iOS Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Software Developer and Freelancer.
-- 🌱 &nbsp; Enthusiast in Deep Learning, Data Science and Computer Vision.
-- 💬 Brainstorm with me over mapping solutions to social problems with tech.
+- 💼 &nbsp; Machine Learning Engineer, Backend Developer and a Freelancer.
+- 🌱 &nbsp; Enthusiast in Data Science, Deep Learning and Computer Vision.
 - 🎬 &nbsp; Watching stand-up comedy and trying out latest trends in python as hobbies/side hustles.
+- 💬 Brainstorm with me over mapping solutions to social problems with tech.
 - 🤙 &nbsp; I believe, jabbering with best friends can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Swift | Django | Flask 
+- 💻 &nbsp; Python | Swift | Java | Django | Flask 
 - 🌐 &nbsp; Machine Learning | Web Scraping | Backend | iOS
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
 - ☁️ &nbsp; Amazon Web Services | Google Cloud Platform
