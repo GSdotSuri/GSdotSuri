@@ -24,6 +24,7 @@
 <br>
 <br>
 
+<div align = center>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GSdotSuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" alt="Gurprasad's Github Stats">
 
 ![Visits Badge](https://badges.pufler.dev/visits/GSdotSuri/GSdotSuri)
@@ -36,7 +37,7 @@
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSdotSuri&count_private=true&layout=compact&theme=react)
-
+</div>
 <br>
 
 <h3> 🤝🏻 Connect with Me </h3>
