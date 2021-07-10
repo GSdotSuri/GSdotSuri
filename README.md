@@ -24,7 +24,14 @@
 <br>
 <br>
 
-![G.S' Github Stats](https://github-readme-stats.vercel.app/api?username=GSdotSuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GSdotSuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" alt="Gurprasad's Github Stats">
+
+![Visits Badge](https://badges.pufler.dev/visits/GSdotSuri/GSdotSuri)
+![Repos Badge](https://badges.pufler.dev/repos/GSdotSuri)
+![Years Badge](https://badges.pufler.dev/years/GSdotSuri)
+![Updated Badge](https://badges.pufler.dev/updated/GSdotSuri/Data-Structure-and-Algorithms)
+![Commits Badge](https://badges.pufler.dev/commits/all/GSdotSuri)
+
 
 </br>
 
