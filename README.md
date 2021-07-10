@@ -9,8 +9,8 @@
 - 💼 &nbsp; Machine Learning Engineer, Backend Developer and a Freelancer.
 - 🌱 &nbsp; Enthusiast in Data Science, Deep Learning and Computer Vision.
 - 🎬 &nbsp; Watching stand-up comedy and trying out latest trends in python as hobbies/side hustles.
-- 💬 Brainstorm with me over mapping solutions to social problems with tech.
-- 🤙 &nbsp; I believe, jabbering with best friends can be the ultimate solution for any stress. 
+- 💬 &nbsp; Brainstorm with me over mapping solutions to social problems with tech.
+- 🤙 &nbsp; I believe jabbering with best friends is the ultimate solution to deal with any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
