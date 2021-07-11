@@ -25,17 +25,16 @@
 <br>
 
 <div align = center>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GSdotSuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" alt="Gurprasad's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GSdotSuri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=great-gatsby" alt="Gurprasad's Github Stats">
 
 ![Visits Badge](https://badges.pufler.dev/visits/GSdotSuri/GSdotSuri)
 ![Repos Badge](https://badges.pufler.dev/repos/GSdotSuri)
 ![Updated Badge](https://badges.pufler.dev/updated/GSdotSuri/DSA-CFC-Batch)
-![Commits Badge](https://badges.pufler.dev/commits/all/GSdotSuri)
 
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSdotSuri&count_private=true&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSdotSuri&count_private=true&layout=compact&theme=great-gatsby)
 </div>
 <br>
 
