@@ -29,7 +29,6 @@
 
 ![Visits Badge](https://badges.pufler.dev/visits/GSdotSuri/GSdotSuri)
 ![Repos Badge](https://badges.pufler.dev/repos/GSdotSuri)
-![Years Badge](https://badges.pufler.dev/years/GSdotSuri)
 ![Updated Badge](https://badges.pufler.dev/updated/GSdotSuri/DSA-CFC-Batch)
 ![Commits Badge](https://badges.pufler.dev/commits/all/GSdotSuri)
 
