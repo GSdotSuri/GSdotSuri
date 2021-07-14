@@ -12,7 +12,7 @@
 - 💬 &nbsp; Brainstorm with me over mapping solutions to social problems with tech.
 - 🤙 &nbsp; I believe jabbering with best friends is the ultimate solution to deal with any stress. 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Python | Swift | Django | Flask 
 - 🌐 &nbsp; Machine Learning | Web Scraping | Backend | iOS
