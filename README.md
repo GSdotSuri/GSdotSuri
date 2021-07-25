@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤓 &nbsp; I am a Developer and a Problem Solver.
-- 🔭 &nbsp; I am currently upskilling myself in Data Science and iOS Application Development
+- 🔭 &nbsp; I am currently upskilling myself in Data Science and iOS Application Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Machine Learning Engineer, Backend Developer and a Freelancer.
 - 🌱 &nbsp; Enthusiast in Data Science, Deep Learning and Computer Vision.
