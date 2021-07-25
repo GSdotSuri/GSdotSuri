@@ -29,7 +29,7 @@
 
 ![Visits Badge](https://badges.pufler.dev/visits/GSdotSuri/GSdotSuri)
 ![Repos Badge](https://badges.pufler.dev/repos/GSdotSuri)
-![Updated Badge](https://badges.pufler.dev/updated/GSdotSuri/DSA-CFC-Batch)
+![Updated Badge](https://badges.pufler.dev/updated/GSdotSuri/Data-Structures-and-Algorithms)
 
 
 </br>
